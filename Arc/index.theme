@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Arc
-Inherits=ubuntu-mobile,Moka,Adwaita,gnome,hicolor
+Inherits=ubuntu-mobile,Humanity,Adwaita,hicolor,Moka,Adwaita,gnome
 Comment=Arc Icon theme
 
 #Directory list
